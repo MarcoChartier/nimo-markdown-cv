@@ -8,7 +8,7 @@ homepage:
   url: https://marcochartier.github.io/
   text: Mon site Github
 phone:
-  url: 514-654-7789
+  url: tel:5146547789
   text: (514) 654-7789
 ---
 
