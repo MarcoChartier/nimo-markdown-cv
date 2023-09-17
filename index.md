@@ -24,16 +24,24 @@ Supported arguments:
 {% include cv-contact.html %}
 
 ## Compétence
-Marmaid, `2023`, mermaid.js
-BABOK 3, `2023`, Groupe d'étude de l'IIBA montréal
-BPMN, `2022`, Learning BPMN 2.0
-Miro, `2022`, Processus d'accompagnement en transformation numérique
-Power automate, `2023`, Automatisation de l’analyse de valeur et de rentabilité
-Business Central, `2022`, Microsoft learn
-Power BI, `2021`, Entrepôt de données et intélligence d'affaires
-Python, `2022`, Conception de système d'information et forage de donnée
-Excel VBA, `2019`, cours de programmation
 
+`2023` Marmaid, , mermaid.js
+
+`2023` BABOK 3,  Groupe d'étude de l'IIBA montréal
+
+`2022` BPMN,  Learning BPMN 2.0
+
+`2022` Miro,  Processus d'accompagnement en transformation numérique
+
+`2023` Power automate, Automatisation de l’analyse de valeur et de rentabilité
+
+`2022` Business Central,  Microsoft learn
+
+`2021` Power BI, Entrepôt de données et intélligence d'affaires
+
+`2022` Python,  Conception de système d'information et forage de donnée
+
+`2019` Excel VBA, cours de programmation
 
 ## Éducation
 
@@ -84,11 +92,11 @@ Application d'analyse des implémentations projets, *ETS*
 
 ## Certification
 
-`2023`, Entry level business analyst, *IIBA*
+`2023` Entry level business analyst, *IIBA*
 
-`2022`, MB-800 Microsoft Dynamics 365 Business Central Functional Consultant, *Microsoft*
+`2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant, *Microsoft*
 
-`2022`, Navipayroll - Payroll Implementation, *Serenic Software*
+`2022` Navipayroll - Payroll Implementation, *Serenic Software*
 
 
 
