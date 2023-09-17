@@ -8,6 +8,7 @@ homepage:
   url: https://marcochartier.github.io/
   text: Mon site Github
 phone:
+  url: 514-654-7789
   text: (514) 654-7789
 ---
 
@@ -17,7 +18,7 @@ phone:
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone : text
+    - phone : url, text
     - email
 -->
 
