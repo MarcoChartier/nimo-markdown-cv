@@ -25,23 +25,23 @@ Supported arguments:
 
 ## Compétence
 
-`2023` Marmaid
+`2023` Marmaid, *Débutant*
 
-`2023` BABOK 3
+`2023` BABOK 3, *Débutant*
 
-`2023` Power automate
+`2023` Power automate, *Débutant*
 
-`2022` BPMN
+`2022` BPMN, *Intermédiaire*
 
-`2022` Miro
+`2022` Miro, *Débutant*
 
-`2022` Business Central
+`2022` Business Central, *Avancer*
 
-`2021` Power BI
+`2022` Python, *Débutant*
 
-`2022` Python
+`2021` Power BI, *Intermédiaire*
 
-`2019` Excel VBA
+`2019` Excel VBA, *Intermédiaire*
 
 ## Éducation
 
@@ -60,35 +60,43 @@ Technique en comptabilité et gestion
 ## Expérience de travail
 
 `2012-2023`
+
 ```
 Montréal
 ```
+
 Analyste fonctionnel, *Vokeso*
 - Configuration et support lors des implémentation ERP
 - Rédaction document fonctionnel liés aux projets
 - Participations active au porjet interne de l'entreprise
 
 `2021`
+
 ```
 Repentigny
 ```
+
 Stagiaire en amélioration continue, *General Dynamic*
 - Développement d'un outil Excel d'aide à l'ordonancement
 - Création d'un tableau de board pour le suivie des indicateur de performance
 
 `2017-2020`
+
 ```
 Laval
 ```
+
 Conseiller en sécurité financière, *Les services financiers Primerica inc.*
 - Rencontrer des familles et expliquer des concepts financier
 - Faire l'analyse des besoins financier
 - Travail d'équipe et éthique de travail
 
 `2019`
+
 ```
 St-jean-sur-richelieu
 ```
+
 Stagiaire en amélioration continue, *GLP Hi-tech*
 - Implémentation du module de gestion de l'entrepôts
 - Création fichier Excel de visualisation des commandes
