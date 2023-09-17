@@ -23,34 +23,16 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Présentement
-
-Analyste fonctionnel junior pour la solution Microsoft Dynamic 365 Business Central chez Vokeso
-
-### Spécialités
-
-Rédaction technique, analyse des systèmes, Controle Qualité, Élicitation des requis
-
-
-### Compétence
-
-Normes
-- UML 3.1
-- BPMN 
-- BABOK 3 
-
-Logiciels
-- Office 365 avancer
-- Power App (Power BI, Power Automate)
-- Business central
-- Visio
-- Miro
-
-Langages de programation
-- Markdown
-- Python
-- VBA
-- AL
+## Compétence
+Marmaid, `2023`, mermaid.js
+BABOK 3, `2023`, Groupe d'étude de l'IIBA montréal
+BPMN, `2022`, Learning BPMN 2.0
+Miro, `2022`, Processus d'accompagnement en transformation numérique
+Power automate, `2023`, Automatisation de l’analyse de valeur et de rentabilité
+Business Central, `2022`, Microsoft learn
+Power BI, `2021`, Entrepôt de données et intélligence d'affaires
+Python, `2022`, Conception de système d'information et forage de donnée
+Excel VBA, `2019`, cours de programmation
 
 
 ## Éducation
