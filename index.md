@@ -23,8 +23,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Sommaire
 
-
+Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir. Avoir une soif d'apprendre aussi m'aide à mieux être au fait des nouvelles pratique dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permette d'être performant au travail. Je recherche cet équilibre ou je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
 
 ## Expérience de travail
 
@@ -103,25 +104,6 @@ Application d'analyse des implémentations projets, *ETS*
 
 `2022` Navipayroll - Payroll Implementation, *Serenic Software*
 
-## Compétence
-
-`2023` Marmaid, *Débutant*
-
-`2023` BABOK 3, *Débutant*
-
-`2023` Power automate, *Débutant*
-
-`2022` BPMN, *Intermédiaire*
-
-`2022` Miro, *Débutant*
-
-`2022` Business Central, *Avancer*
-
-`2022` Python, *Débutant*
-
-`2021` Power BI, *Intermédiaire*
-
-`2019` Excel VBA, *Intermédiaire*
 
 
 
