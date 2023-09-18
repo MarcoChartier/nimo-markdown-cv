@@ -35,23 +35,20 @@ Montréal
 ```
 
 Analyste fonctionnel
-- Configuration et support lors des implémentation ERP
-- Rédaction document fonctionnel liés aux projets
-- Participations active au porjet interne de l'entreprise
+- Configuration et support lors des implémentations ERP
+- Rédaction document fonctionnel lié aux projets
+- Participations actives au projet interne de l'entreprise
 
 
-
-
-
- ### *General Dynamic* `2021`
+### *General Dynamic* `2021`
 
 ```
 Repentigny
 ```
 
 Stagiaire en amélioration continue
-- Développement d'un outil Excel d'aide à l'ordonancement
-- Création d'un tableau de board pour le suivie des indicateur de performance
+- Développement d'un outil Excel d'aide à l'ordonnancement
+- Création d'un tableau de board pour le suivie des indicateurs de performance
 
 ### *Les services financiers Primerica inc.* `2017-2020`
 
@@ -60,8 +57,8 @@ Laval
 ```
 
 Conseiller en sécurité financière
-- Rencontrer des familles et expliquer des concepts financier
-- Faire l'analyse des besoins financier
+- Rencontrer des familles et expliquer des concepts financiers
+- Faire l'analyse des besoins financiers
 - Travail d'équipe et éthique de travail
 
 
@@ -72,7 +69,7 @@ Conseiller en sécurité financière
 St-jean-sur-richelieu
 ```
 Stagiaire en amélioration continue 
-- Implémentation du module de gestion de l'entrepôts
+- Implémentation du module de gestion de l'entrepôt
 - Création fichier Excel de visualisation des commandes
 
 
@@ -130,4 +127,4 @@ Application d'analyse des implémentations projets, *ETS*
 
 <!-- ### Footer
 
-Dernière mise à jour: Septembre 2023 -->
+Dernière mise à jour: septembre 2023 -->
