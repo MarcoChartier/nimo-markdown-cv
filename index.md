@@ -29,7 +29,7 @@ Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des p
 
 ## Expérience de travail
 
-### *Vokeso* `2012-2023`
+### *Vokeso* `2021-2023`
 
 ```
 Montréal
