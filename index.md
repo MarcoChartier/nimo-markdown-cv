@@ -7,16 +7,18 @@ email:
 homepage:
   text: 1885 48e avenue, Pointe-aux-trembles, H1A 2Y5
 phone:
-  tel:5146547789
+  Tel:(514)654-7789
+Poste:
+  text: Analyste d'affaire
 ---
 
-# Marco **Chartier** 
-Analyste d'affaire
+# Marco **Chartier**
+
 
 <!--
 include contact information from the front matter
 Supported arguments:
-    - homepage: url, text
+    - homepage: text
     - phone
     - email
 -->
@@ -95,6 +97,10 @@ Application d'intelligence d'affaires, *Vokeso*
 - Documenter par l'exemple pour gagner en clarté
 - Approche collaborative et agile pour livrer plus rapidement de la valeur au client
 
+```
+
+```
+
 `2022`
 Application d'analyse des implémentations projets, *ETS*
 - Utilisation des techniques de modélisation et de simulation afin d'évaluer la probabilité d'un résultat
@@ -106,14 +112,25 @@ Application d'analyse des implémentations projets, *ETS*
 - Connaissance des 50 outils de l'analyste d'affaire
 - Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
 
+```
+
+```
+
 `2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant, *Microsoft*
 - Expertise et mise à niveau sur les principaux module de Business Central
+
+```
+
+```
 
 `2022` Navipayroll - Payroll Implementation, *Serenic Software*
 - Soutenir les opérations de paie standard
 
 
+```
 
+`2021` Candidats à la profession d'ingénieur, *Ordre des ingénieurs du Québec*
+- Avoir une éthique de travail et protéger les intérêts du public
 
 <!-- ### Footer
 
