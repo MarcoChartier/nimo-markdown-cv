@@ -5,13 +5,13 @@ email:
   url: mailto:marco.chartier.1@ens.etsmtl.ca
   text: marco.chartier.1@ens.etsmtl.ca
 homepage:
-  url: https://marcochartier.github.io/
-  text: Mon site Github
+  text: 1885 48e avenue, Pointe-aux-trembles, H1A 2Y5
 phone:
   tel:5146547789
 ---
 
-# Marco **Chartier**
+# Marco **Chartier** 
+Analyste d'affaire
 
 <!--
 include contact information from the front matter
@@ -25,7 +25,7 @@ Supported arguments:
 
 ## Sommaire
 
-Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir. Avoir une soif d'apprendre aussi m'aide à mieux être au fait des nouvelles pratique dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permette d'être performant au travail. Je recherche cet équilibre ou je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
+Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir.Aussi, avoir une soif d'apprendre m'aide à mieux être au fait des nouvelles pratiques dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permettent d'être performant au travail. Je recherche cet équilibre où je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
 
 ## Expérience de travail
 
@@ -36,9 +36,9 @@ Montréal
 ```
 
 Analyste fonctionnel
-- Configuration et support lors des implémentations ERP
-- Rédaction document fonctionnel lié aux projets
-- Participations actives au projet interne de l'entreprise
+- Configurer et support lors des implémentations ERP
+- Rédiger des documents fonctionnels et techniques liés aux projets
+- Participer activement aux projets internes de l'entreprise
 
 
 ### *General Dynamic* `2021`
@@ -48,8 +48,8 @@ Repentigny
 ```
 
 Stagiaire en amélioration continue
-- Développement d'un outil Excel d'aide à l'ordonnancement
-- Création d'un tableau de board pour le suivie des indicateurs de performance
+- Développer un outil Excel d'aide à l'ordonnancement
+- Créer un tableau de board pour le suivie des indicateurs de performance
 
 ### *Les services financiers Primerica inc.* `2017-2020`
 
@@ -60,7 +60,7 @@ Laval
 Conseiller en sécurité financière
 - Rencontrer des familles et expliquer des concepts financiers
 - Faire l'analyse des besoins financiers
-- Travail d'équipe et éthique de travail
+- Travailler d'équipe et éthique de travail
 
 
 
@@ -70,15 +70,15 @@ Conseiller en sécurité financière
 St-jean-sur-richelieu
 ```
 Stagiaire en amélioration continue 
-- Implémentation du module de gestion de l'entrepôt
-- Création fichier Excel de visualisation des commandes
+- Implémenter le module de gestion de l'entrepôt
+- Créer un fichier Excel de visualisation des commandes
 
 
 
 ## Éducation
 
 `2018-2022`
-__École de technologie supérieur__
+__École de technologie supérieure__
 
 Baccalauréat en génie des opérations et de la logistique
 
@@ -91,18 +91,26 @@ Technique en comptabilité et gestion
 ## Projets
 
 `2023`
-Portail de formation vidéo, *Vokeso*
+Application d'intelligence d'affaires, *Vokeso*
+- Documenter par l'exemple pour gagner en clarté
+- Approche collaborative et agile pour livrer plus rapidement de la valeur au client
 
 `2022`
 Application d'analyse des implémentations projets, *ETS*
+- Utilisation des techniques de modélisation et de simulation afin d'évaluer la probabilité d'un résultat
+- Développer en Python pour ses bibliothèques de visualisation et son automatisation
 
 ## Certification
 
 `2023` Entry level business analyst, *IIBA*
+- Connaissance des 50 outils de l'analyste d'affaire
+- Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
 
 `2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant, *Microsoft*
+- Expertise et mise à niveau sur les principaux module de Business Central
 
 `2022` Navipayroll - Payroll Implementation, *Serenic Software*
+- Soutenir les opérations de paie standard
 
 
 
