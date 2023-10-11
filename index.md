@@ -92,45 +92,55 @@ Technique en comptabilité et gestion
 
 ## Projets
 
+### *Vokeso*
+
 `2023`
-Application d'intelligence d'affaires, *Vokeso*
+Application d'intelligence d'affaires
 - Documenter par l'exemple pour gagner en clarté
 - Approche collaborative et agile pour livrer plus rapidement de la valeur au client
 
-```
+`2023`
+Site web de documentation
+- Portail à jour de la documentation technique de nos solutions
+- Facilite la mise à jour et la distribution du contenu
 
-```
+### *ETS*
 
 `2022`
-Application d'analyse des implémentations projets, *ETS*
+Application d'analyse des implémentations projets
 - Utilisation des techniques de modélisation et de simulation afin d'évaluer la probabilité d'un résultat
 - Développer en Python pour ses bibliothèques de visualisation et son automatisation
 
 ## Certification
 
-`2023` Entry level business analyst, *IIBA*
+### *IIBA*
+
+`2023` Entry level business analyst
 - Connaissance des 50 outils de l'analyste d'affaire
 - Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
 
-```
+### *Microsoft*
 
-```
-
-`2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant, *Microsoft*
+`2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant
 - Expertise et mise à niveau sur les principaux module de Business Central
 
-```
+### *Serenic Software*
 
-```
-
-`2022` Navipayroll - Payroll Implementation, *Serenic Software*
+`2022` Navipayroll - Payroll Implementation
 - Soutenir les opérations de paie standard
 
+### *Ordre des ingénieurs du Québec*
 
-```
-
-`2021` Candidats à la profession d'ingénieur, *Ordre des ingénieurs du Québec*
+`2021` Candidats à la profession d'ingénieur
 - Avoir une éthique de travail et protéger les intérêts du public
+
+<iframe
+  src="https://badges.iiba.org/embed/d9d1e6f9-7518-4ce1-8e45-e62b51087f9e"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 <!-- ### Footer
 
