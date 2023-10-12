@@ -12,7 +12,7 @@ Poste:
   text: Analyste d'affaire
 ---
 
-# Marco **Chartier** CPI, Intégrateur ERP
+# Marco **Chartier** CPI
 
 
 <!--
@@ -25,7 +25,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Sommaire
+## Sommaire Analyste fonctionnel & Analyste d'affaire | ERP et transformation numérique
 
 Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir.Aussi, avoir une soif d'apprendre m'aide à mieux être au fait des nouvelles pratiques dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permettent d'être performant au travail. Je recherche cet équilibre où je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
 
@@ -118,18 +118,24 @@ Application d'analyse des implémentations projets
 `2023` Entry level business analyst
 - Connaissance des 50 outils de l'analyste d'affaire
 - Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
+
+```
 <iframe
   src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81197839"
-  width="150"
-  height="270"
+  width="200"
+  height="300"
   frameborder="0">
 </iframe>
+```
 
 ### *Microsoft*
 
 `2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant
 - Expertise et mise à niveau sur les principaux module de Business Central
+
+```
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f7eb2cb-a9a9-4ba6-8f7b-f67271f880b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+```
 
 ### *Serenic Software*
 
