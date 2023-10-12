@@ -12,7 +12,7 @@ Poste:
   text: Analyste d'affaire
 ---
 
-# Marco **Chartier** CPI
+# Marco **Chartier** Candidat à la profession d’ingénieur
 
 
 <!--
