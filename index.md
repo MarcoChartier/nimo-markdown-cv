@@ -5,11 +5,9 @@ email:
   url: mailto:marco.chartier.1@ens.etsmtl.ca
   text: marco.chartier.1@ens.etsmtl.ca
 homepage:
-  text: 1885 48e avenue, Pointe-aux-trembles, H1A 2Y5
+  text: 1885 48e avenue, Pointe-aux-trembles
 phone:
   Tel:(514)654-7789
-Poste:
-  text: Analyste d'affaire
 ---
 
 # Marco **Chartier** CPI
