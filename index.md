@@ -12,7 +12,7 @@ Poste:
   text: Analyste d'affaire
 ---
 
-# Marco **Chartier**
+# Marco **Chartier** CPI, Intégrateur ERP
 
 
 <!--
@@ -135,11 +135,10 @@ Application d'analyse des implémentations projets
 - Avoir une éthique de travail et protéger les intérêts du public
 
 <iframe
-  src="https://badges.iiba.org/embed/d9d1e6f9-7518-4ce1-8e45-e62b51087f9e"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
+  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81197839"
+  width="600"
+  height="400"
+  frameborder="0">
 </iframe>
 
 <!-- ### Footer
