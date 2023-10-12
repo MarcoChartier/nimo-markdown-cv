@@ -118,11 +118,18 @@ Application d'analyse des implémentations projets
 `2023` Entry level business analyst
 - Connaissance des 50 outils de l'analyste d'affaire
 - Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
+<iframe
+  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81197839"
+  width="150"
+  height="270"
+  frameborder="0">
+</iframe>
 
 ### *Microsoft*
 
 `2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant
 - Expertise et mise à niveau sur les principaux module de Business Central
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f7eb2cb-a9a9-4ba6-8f7b-f67271f880b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### *Serenic Software*
 
@@ -134,12 +141,7 @@ Application d'analyse des implémentations projets
 `2021` Candidats à la profession d'ingénieur
 - Avoir une éthique de travail et protéger les intérêts du public
 
-<iframe
-  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81197839"
-  width="600"
-  height="400"
-  frameborder="0">
-</iframe>
+
 
 <!-- ### Footer
 
