@@ -26,7 +26,7 @@ Supported arguments:
 ## Analyste d'affaire | ERP et transformation numérique
 ## Sommaire 
 
-Ma force professionnelle, c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir.Aussi, avoir une soif d'apprendre m'aide à mieux être au fait des nouvelles pratiques dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permettent d'être performant au travail. Je recherche cet équilibre où je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
+Ma force professionnelle c'est de combiner l'approche de l'ingénierie à des problèmes de gestion au moyen d'outil technologique. Ainsi, j'ai toujours su capitaliser sur mon aise avec la technologie pour aider les entreprises à mieux numériser leur processus d'affaires. Mon dernier stage dans une entreprise d'intégration de progiciel de gestion intégrée a ouvert la voie sur ce que j'ai envie d'accomplir. Aussi, avoir une soif d'apprendre m'aide à mieux être au fait des nouvelles pratiques dans plusieurs domaines. J'ai aussi développé mes propres outils de travail qui me permettent d'être performant au travail. Je recherche cet équilibre où je peux aider les entreprises à atteindre leur vision stratégique à l'aide d'un environnement numérique claire, efficace et robuste.
 
 ## Expérience de travail
 
@@ -37,7 +37,7 @@ Montréal
 ```
 
 Analyste fonctionnel
-- Configurer et support lors des implémentations ERP
+- Faire la configuration et le support lors des implémentations ERP
 - Rédiger des documents fonctionnels et techniques liés aux projets
 - Participer activement aux projets internes de l'entreprise
 
@@ -50,7 +50,7 @@ Repentigny
 
 Stagiaire en amélioration continue
 - Développer un outil Excel d'aide à l'ordonnancement
-- Créer un tableau de board pour le suivie des indicateurs de performance
+- Créer un tableau de bord pour le suivi des indicateurs de performance
 
 ### *Les services financiers Primerica inc.* `2017-2020`
 
@@ -61,7 +61,7 @@ Laval
 Conseiller en sécurité financière
 - Rencontrer des familles et expliquer des concepts financiers
 - Faire l'analyse des besoins financiers
-- Travailler d'équipe et éthique de travail
+- Travailler en équipe et faire preuve d'éthique de travail
 
 
 
@@ -96,18 +96,18 @@ Technique en comptabilité et gestion
 `2023`
 Application d'intelligence d'affaires
 - Documenter par l'exemple pour gagner en clarté
-- Approche collaborative et agile pour livrer plus rapidement de la valeur au client
+- Utiliser une approche collaborative et agile pour livrer plus rapidement de la valeur au client
 
 `2023`
 Site web de documentation
-- Portail à jour de la documentation technique de nos solutions
-- Facilite la mise à jour et la distribution du contenu
+- Avoir un portail à jour de la documentation technique de nos solutions
+- Faciliter la mise à jour et la distribution du contenu
 
 ### *ETS*
 
 `2022`
 Application d'analyse des implémentations projets
-- Utilisation des techniques de modélisation et de simulation afin d'évaluer la probabilité d'un résultat
+- Utilisatier des techniques de modélisation et de simulation afin d'évaluer la probabilité d'un résultat
 - Développer en Python pour ses bibliothèques de visualisation et son automatisation
 
 ## Certification
@@ -115,13 +115,13 @@ Application d'analyse des implémentations projets
 ### *IIBA*
 
 `2023` Entry level business analyst
-- Connaissance des 50 outils de l'analyste d'affaire
-- Organisation du processus d'affaire dans l'intégraliter de son cycle de vie
+- Avoir une connaissance des 50 outils de l'analyste d'affaire
+- Organisatier le processus d'affaire dans l'intégraliter de son cycle de vie
 
 ### *Microsoft*
 
 `2022` MB-800 Microsoft Dynamics 365 Business Central Functional Consultant
-- Expertise et mise à niveau sur les principaux module de Business Central
+- Avoir une expertise et mise à niveau sur les principaux module de Business Central
 
 ### *Serenic Software*
 
